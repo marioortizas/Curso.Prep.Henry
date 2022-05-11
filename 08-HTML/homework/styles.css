@@ -1,0 +1,22 @@
+<style type="text/css">
+.divclass h1{
+    color: brown;
+}
+.divclass #spanId{
+    font-size: 15px;
+    margin: 50px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: blue;
+    padding: 50px;
+    border: 5px;
+}
+
+#thirdDiv ul li {
+    width:400px;
+}
+
+</style>
